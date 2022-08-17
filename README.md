@@ -42,8 +42,10 @@ Replace the content in the file `ood_test_config/cheetah_vel.txt` with paths of 
 If you are using the codes, please cite our paper.
 
 	@inproceedings{yuan2022robust,
-        	title={Robust Task Representations for Offline Meta-Reinforcement Learning via Contrastive Learning.},
-        	author={Yuan, Haoqi and Lu, Zongqing},
-        	booktitle={ICML},
-        	year={2022}
+        	title={Robust Task Representations for Offline Meta-Reinforcement Learning via Contrastive Learning},
+  			author={Yuan, Haoqi and Lu, Zongqing},
+  			booktitle={International Conference on Machine Learning},
+  			pages={25747--25759},
+  			year={2022},
+  			organization={PMLR}
 	}
